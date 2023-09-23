@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1845efee.css",
+    "main.js": "/static/js/main.e10e4e5b.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/bloodbank.jpg": "/static/media/bloodbank.35d0ef1f1fde9f211027.jpg",
+    "index.html": "/index.html",
+    "main.1845efee.css.map": "/static/css/main.1845efee.css.map",
+    "main.e10e4e5b.js.map": "/static/js/main.e10e4e5b.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1845efee.css",
+    "static/js/main.e10e4e5b.js"
+  ]
+}
